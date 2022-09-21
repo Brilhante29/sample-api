@@ -1,1 +1,2 @@
 web: python3 filmes-api/manage.py runserver
+config: set DISABLE_COLLECTSTATIC=1
