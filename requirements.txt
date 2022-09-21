@@ -1,8 +1,0 @@
-asgiref
-Django
-django-filter
-djangorestframework
-pytz
-sqlparse
-drf-yasg
-psycopg2-binary
